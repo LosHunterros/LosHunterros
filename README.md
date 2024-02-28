@@ -1,6 +1,13 @@
-![image](https://github.com/LosHunterros/LosHunterros/assets/123071857/ea5b5a61-614a-4416-aece-9bbec424b6f6)
+![screen - github](https://github.com/LosHunterros/LosHunterros/assets/123071857/1b2baf46-9e5b-4274-9166-06cf929f626a)
 
-### Hi there 👋
+<div class="text-center">
+  <h2 align="center">
+  Maciej Piech
+  </h2>
+  <h3 align="center">Fullstack Web Developer (C#)</h3>
+</div>
+
+<hr />
 
 <!--
 **LosHunterros/LosHunterros** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
