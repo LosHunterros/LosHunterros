@@ -65,10 +65,10 @@
     <td width="50%" valign="top"><p align="right">
       <h3>Mentor Opinion</h3>
       <p>Maciej is skilled at programming in .NET Core, Entity Framework and working with APIs, I can confidently say that knowledge of these technologies is key. He has good knowledge and is a fast learner. He knows how to use an object-oriented approach to programming. He can take a job in programming with a team that will introduce him to the full product by preassigning smaller tasks. Through Maciej's learning speed, he can be quickly introduced to the full product and help develop its main functionalities.</p>
-      <p align="right"><i>- Adrian Widłak</i></p>
+      <p align="right"><i>- <a href="https://www.linkedin.com/in/adrianwidlak/" target="_blank" rel="noopener noreferrer">Adrian Widłak</a></i></p>
       <h3>Developer Opinion</h3>
       <p>Droga sieci! Tym razem mam do polecenia Junior C#/ ASP.NET Fullstack Developera. Maciek ma wiele lat doświadczenia jako freelancer i programował własny framework w php, a obecnie ukończył roczne szkolenie Fullstack C#/ ASP.NET, które wprowadziły go w tajniki pracy w Scrumie, pracy zespołowej i pracy w komercyjnych projektach. Współpracowaliśmy razem jeszcze zanim branża IT była modna i dlatego z czystym sumieniem mogę powiedzieć, za pół roku będzie więcej wart niż niektórzy z 2-3 letnim doświadczeniem.</p>
-      <p align="right"><i>- Piotr Piech</i></p>
+      <p align="right"><i>- <a href="https://www.linkedin.com/in/piotr-piech/" target="_blank" rel="noopener noreferrer">Piotr Piech</a></i></p>
     </td>
   </tr>
 </table>
